@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bingo88.maskoolin.com/sitemap.xml
+Sitemap : http://bingo88.php-map.org/sitemap.xml
